@@ -1,0 +1,24 @@
+{
+  "name": "shipping-api",
+  "version": "1.0.0",
+  "description": "REST API for MisionTIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DazaTovarJ/shipping-api.git"
+  },
+  "keywords": [
+    "packaging",
+    "mail",
+    "rest"
+  ],
+  "author": "Jaime Daza, Yessica Cortés, Lucía Zipaquirá, María Torres, Lilia Espinosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DazaTovarJ/shipping-api/issues"
+  },
+  "homepage": "https://github.com/DazaTovarJ/shipping-api#readme"
+}
